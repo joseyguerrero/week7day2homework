@@ -37,7 +37,7 @@ function Person (name, age){
         return `Your name is ${this.name}, You are ${this.age} old`
     }
 }
-}
+
 console.log(Person.chachi,35);
 
 let person1 = new Person('Chachi',35);
